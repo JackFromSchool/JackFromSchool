@@ -1,5 +1,6 @@
 # my name is jack!
-i'm a programer (i think) but im very much a begginner. i'm only in highschool though so i've got plenty of time to like not suck.
+
+i program things more sometimes
 
 
 <!---
