@@ -1,6 +1,6 @@
 # my name is jack!
 
-i program things more sometimes
+im a highschool student that codes things sometimes. currently learning rust cause i think its fun and cool
 
 
 <!---
