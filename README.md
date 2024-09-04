@@ -1,9 +1,8 @@
 # my name is jack!
 
-im a highschool student that codes things sometimes. currently learning rust cause i think its fun and cool
+I'm currently attending the University of Texas at Austin, majoring in Electrical and Computer Engineering. I am primarily interested in computer architecture and low level programming, however I still enjoy higher level coding in my free time.
 
-
-<!---
-JackFromSchool/JackFromSchool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Proficient in:
+* Rust
+* Java
+* Python
